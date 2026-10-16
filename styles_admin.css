@@ -1,0 +1,4 @@
+/* styles.css additions for admin tables/forms */
+
+.admin-note { border:1px solid #eee; padding:8px; background:#fafafa; }
+button { cursor:pointer; }
